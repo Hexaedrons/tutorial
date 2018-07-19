@@ -12,7 +12,9 @@ git clone url <optional_name>			clone the url on local folder. First everything 
 git init 					realize an initialisation of the local folder. 
 git add file					Add file to the git branch
 git commit  					Commit local data to master branch. '-m "my modif was nia
-						nia nia" ot precise your commitments. 
+						nia nia" ot precise your commitments. It's mandatory. 
 git status 					Give current status (clean meaning same as master's) of 
 						all files in the git branch. 
+git push origin local_branch			push commitment you have realized on edited branch 
+						"local_branch" to where you've taken it, "origin".
 
